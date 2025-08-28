@@ -1,1 +1,1 @@
-It's a simple stone paper scissor game.
+Some of the projects I created while learning Python.
