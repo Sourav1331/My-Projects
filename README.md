@@ -1,1 +1,1 @@
-# My-Projects
+It's a simple stone paper scissor game.
